@@ -1,0 +1,33 @@
+{
+  "lastModified": "2015-05-14T12:46:57.631Z",
+  "target": {
+    "clientCode": "",
+    "timeout": 5
+  },
+  "audienceManager": {
+    "server": ""
+  },
+  "acquisition": {
+    "server": "c00.adobe.com",
+    "appid": "24881ff4bdb698a9bfb6723347539d1f2f7f28e93bb86b7d1756451494eabdd0"
+  },
+  "analytics": {
+    "rsids": "lscsalexisandrdoidvideotest",
+    "server": "cardgagecorp.sc.omtrdc.net",
+    "ssl": false,
+    "offlineEnabled": true,
+    "charset": "UTF-8",
+    "lifecycleTimeout": 300,
+    "privacyDefault": "optedin",
+    "batchLimit": 0,
+    "timezone": "WEDT",
+    "timezoneOffset": 60,
+    "referrerTimeout": 0,
+    "poi": []
+  },
+  "messages": [],
+  "remotes": {
+    "analytics.poi": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5554a73f3065660017530300.json",
+    "messages": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5554a73f303365318c560100.json"
+  }
+}
