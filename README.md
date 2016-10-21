@@ -1,3 +1,5 @@
+> For New documentation check this [wiki](https://github.com/alcazes/Video-in-Adobe-Analytics-V15)
+
 # Android-Milestone-Video-tracking
 Adobe analytics Android app milsetone video tracking
 
